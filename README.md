@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohammad-S-Rahman
-- 👀 I’m interested in Java Backend Programming. 
-- 🌱 I’m currently learning Spring, JavaScript, React and Node.JS
-- 💞️ I’m looking to collaborate on backend Projects.
+- 👀 I’m currently doing data analysis on German Energy Resources. 
+- 🌱 My tech stack: Python, SQL, Java, C, Javascript, Power BI, and VBA 
+- 💞️ I’m looking to collaborate on Data Analysis Projects.
 - 📫 Reach me via email: rahman.haw14@gmail.com
 
 <!---
